@@ -1,0 +1,11 @@
+# 忽略 .env 文件（核心）
+.env
+
+# 忽略环境变量文件的变体
+.env.*
+
+# Python 项目常见忽略项
+__pycache__/
+*.py[cod]
+.venv/
+.vscode/
